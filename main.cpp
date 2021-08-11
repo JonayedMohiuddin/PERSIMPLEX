@@ -3,13 +3,13 @@ AUTHOR : Jonayed Mohiuddin
 EMAIL  : jonayedmohiuddin@gmail.com
 GITHUB : https://github.com/JonayedMohiuddin
 DETAILS : 
-=PERSIMPLEX Compiler : This is a very very basic Compiler written in C++ which converts "ANETA" language to
+=PERSIMPLEX Compiler : This is a very very basic Compiler written in C++ which converts "APLOS" language to
 C language.
-=ANETA LANGUAGE : A language created by me for this compiler demonstration purpos. 
-+Extension-(.ane)
+APLOS LANGUAGE : A language created by me for this compiler demonstration purpos. 
++Extension-(.apl)
 
 FlowChart:
-SOURCE CODE(ANETA) => LEXER => PARSER => EMITTER => COMPILED CODE(C) 
+SOURCE(APLOS) => LEXER => PARSER => EMITTER => COMPILED CODE(C) 
 ===========================================================================================================*/
 
 #include <iostream>
