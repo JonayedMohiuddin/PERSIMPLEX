@@ -28,6 +28,12 @@ The syntax of `APLOS` language consists of `12 TOKENS`.They are:
 - `THEN`
 - `ENDIF`
 - `WHILE`
+  - Reapeats a loop until the condition is true
+  ```
+  WHILE CONDITION REPEAT
+    STATEMENTS
+  ENDWHILE
+  ```
 - `REPEAT`
 - `ENDWHILE`
 - `NEWLINE`
