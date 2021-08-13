@@ -19,6 +19,12 @@ The syntax of `APLOS` language consists of `12 TOKENS`.They are:
   - This will change the code flow to the point where the label is declared.
   - GOTO loop
 - `IF`
+  - If followed by condition evaluates the statements below it if the conditions are true.
+  ```
+  IF CONDITION THEN
+    STATEMENTS
+  ENDIF
+  ```
 - `THEN`
 - `ENDIF`
 - `WHILE`
