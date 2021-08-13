@@ -38,3 +38,15 @@ The syntax of `APLOS` language consists of `12 TOKENS`.They are:
 - `ENDWHILE`
 - `NEWLINE`
   - Every statement must end with a newline (`'\n'`)
+
+### HELLO WORLD EXAMPLE
+```
+PRINT "HELLO WORLD"
+```
+
+### AVERAGE CALCULATOR
+```
+LET a = 0
+LET b = 0
+
+```
